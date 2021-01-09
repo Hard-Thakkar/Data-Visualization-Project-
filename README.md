@@ -1,10 +1,10 @@
-#Data Visualization Project -  Brazilian E-Commerce Public Dataset by Olist
+## Data Visualization Project -  Brazilian E-Commerce Public Dataset by Olist
 
-#Kaggle Link
+### Kaggle Link
 
 [Brazilian-Ecommerce](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
-#Functionality
+### Functionality
 
 ```
 R (Programming Language)
@@ -13,7 +13,7 @@ Binning
 Visualization Plots and Graphs
 ```
 
-#Key Libraries
+### Key Libraries
 
 ggplot
 ggplot2
