@@ -15,13 +15,13 @@ Visualization Plots and Graphs
 
 ### Key Libraries
 
-ggplot
-ggplot2
-geobr
-maps
-mapdata
-scales
-get_brmap
+- ggplot
+- ggplot2
+- geobr
+- maps
+- mapdata
+- scales
+- get_brmap
 
 
 
